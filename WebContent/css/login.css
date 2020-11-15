@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.login{
+	 position: absolute;
+	 width: 400px;
+	 left: 400px;
+     top: 200px;
+    background-color:rgba(248,248,255,0.3);
+     padding-top: 20px;
+	 padding-right: 50px;
+}
+h1{
+	padding-left: 45%;
+	color:#2F4F4F;
+}
+.layui-input-block{
+	padding-left: 35px;
+}
