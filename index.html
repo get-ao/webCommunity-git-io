@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <title>聊天室</title>
+    <head>
+        <script src="js/jquery-3.5.0.min.js"></script>
+        <script src="js/index.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+        <link rel="stylesheet" href="css/index.css">
+        <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div  class="messager">
+                <div id="message" class="ui list">
+
+                </div>
+            </div>
+            <div class="imgDiv">
+                <div class="shower" data-content="添加用户">
+                   <img id="emojiIcon" src="icon.png"/>
+                  </div>
+            </div>
+            <div id="sendText" contenteditable="true" class="sender">
+            </div>
+            <div class="sendBtn">
+                <button id="send" class="btn">发送</button>
+            </div>
+            <div class="user"></div>
+        </div>
+    </body>
+   
+</html>
