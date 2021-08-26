@@ -50,7 +50,7 @@
         return c.d(o, "a", o), o
     }, c.o = function (e, o) {
         return Object.prototype.hasOwnProperty.call(e, o)
-    }, c.p = "/chatroom/";
+    }, c.p = "webCommunity-git-io/chatroom/";
     var s = window["webpackJsonp"] = window["webpackJsonp"] || [], r = s.push.bind(s);
     s.push = o, s = s.slice();
     for (var m = 0; m < s.length; m++) o(s[m]);
@@ -61,7 +61,7 @@
         e.exports = a("56d7")
     }, "0465": function (e, o, a) {
     }, "0b66": function (e, o, a) {
-        e.exports = a.p + "./img/one.ce8f4e83.jpg"
+        e.exports = a.p + "img/one.ce8f4e83.jpg"
     }, 1: function (e, o) {
     }, 2395: function (e, o, a) {
     }, "53cf": function (e, o, a) {
