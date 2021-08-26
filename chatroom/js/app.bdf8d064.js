@@ -61,7 +61,7 @@
         e.exports = a("56d7")
     }, "0465": function (e, o, a) {
     }, "0b66": function (e, o, a) {
-        e.exports = a.p + "img/one.ce8f4e83.jpg"
+        e.exports = a.p + "chatroom/img/one.ce8f4e83.jpg"
     }, 1: function (e, o) {
     }, 2395: function (e, o, a) {
     }, "53cf": function (e, o, a) {
