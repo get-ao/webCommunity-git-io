@@ -50,7 +50,7 @@
         return c.d(o, "a", o), o
     }, c.o = function (e, o) {
         return Object.prototype.hasOwnProperty.call(e, o)
-    }, c.p = "webCommunity-git-io/chatroom/";
+    }, c.p = "/";
     var s = window["webpackJsonp"] = window["webpackJsonp"] || [], r = s.push.bind(s);
     s.push = o, s = s.slice();
     for (var m = 0; m < s.length; m++) o(s[m]);
